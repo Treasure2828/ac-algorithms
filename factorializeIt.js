@@ -9,6 +9,11 @@
 
 function factorializeIt(num) {
   //your code here
+  var result = 1;
+  for (var i = 1; <= num; i++){
+    result = result * 1;
+  }
+  return result
 }
 
 factorializeIt(5);
